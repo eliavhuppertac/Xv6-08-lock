@@ -24,3 +24,6 @@ ph
 barrier
 /lab-*.json
 .DS_Store
+.vscode/
+gdb-12.1.tar.gz
+gdb-12.1/
